@@ -6,7 +6,7 @@ This project is built with **Node.js + Express** and designed to be beginner-fri
 ---
 
 ## 🚀 Features
-- Fetch latest crypto price (BTC/ETH or any pair available on Indodax).
+- Fetch latest crypto price.
 - Fetch current weather information for any city using OpenWeather API.
 - Clean JSON output with only the most important fields.
 - Lightweight, fast, and easy to customize.
